@@ -7,3 +7,11 @@ print("1 / 2 : " + str(1/2))
 print("3 ** 2 : " + str(3**2))
 print("Mod function : " + str(4%2))
 print("Mod function : " + str(5%2))
+
+var = 2
+print(var)
+
+
+x = 2
+y = 3
+print (x + y)
