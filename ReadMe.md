@@ -10,10 +10,10 @@
 conda info --envs
 
 ### Data Types:
-Numbers
-Strings
-Print Formating
-Lists
-Dictionaries
-Booleans
-Tuples and Sets
+1. Numbers
+2. Strings
+3. Print Formating
+4. Lists
+5. Dictionaries
+6. Booleans
+7. Tuples and Sets
