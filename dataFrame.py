@@ -19,5 +19,5 @@ data = {'Company':
 df = pd.DataFrame(data)
 print (df)
 
-byComp = df.groupby('Company')
-print (byComp.mean())
+byCompanyName = df.groupby('Company')
+print (byCompanyName.mean())
